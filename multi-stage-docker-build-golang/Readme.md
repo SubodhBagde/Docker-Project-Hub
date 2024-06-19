@@ -125,7 +125,7 @@ hello-world       latest    d2c94e258dcb   13 months ago    13.3kB
 
 </br >
 
-We can see that the size of the docker image has drastically reduced my using multi stage docker build method.
+We can see that the size of the docker image is 1.96MB which has drastically reduced my using multi stage docker build method.
 
 </br>
 
